@@ -42,6 +42,10 @@ section {
   line-height: 2rem;
 }
 
+.card img {
+  float: right;
+}
+
 .supervisor {
   border-top: 2px solid hsl(180, 62%, 55%);
 }
