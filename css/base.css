@@ -18,6 +18,34 @@ h2 em {
   font-size: 2rem;
 }
 
+section {
+  padding-bottom: 5vh;
+}
+
+.card {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 40px;
+  height: 20vh;
+}
+
+.supervisor {
+  border-top: 2px solid hsl(180, 62%, 55%);
+}
+
+.team {
+  border-top: 2px solid hsl(0, 78%, 62%);
+}
+
+.karma {
+  border-top: 2px solid hsl(34, 97%, 64%);
+}
+
+.calculator {
+  border-top: 2px solid hsl(212, 86%, 64%);
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
