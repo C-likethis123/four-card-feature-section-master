@@ -17,11 +17,17 @@ p {
 h1 {
   font-weight: 200;
   font-size: 2rem;
+  line-height: 3rem;;
 }
 
 h2 em {
   font-weight: 600;
   font-size: 2rem;
+  line-height: 3rem;
+}
+
+.hero {
+  text-align: center;
 }
 
 section {
