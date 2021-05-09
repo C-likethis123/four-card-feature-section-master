@@ -8,6 +8,16 @@ body {
   height: calc(100% - 10vh);
 }
 
+h1 {
+  font-weight: 200;
+  font-size: 2rem;
+}
+
+h2 em {
+  font-weight: 600;
+  font-size: 2rem;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
